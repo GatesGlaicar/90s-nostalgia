@@ -26,3 +26,15 @@ img {
     text-align: center;
     margin: 0%;
 }
+
+.wrapper {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 1.5em 0em;
+}
+
+header {
+    padding: 1.5em 0em;
+}
