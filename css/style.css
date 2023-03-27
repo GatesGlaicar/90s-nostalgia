@@ -16,3 +16,12 @@ html {
 *, *::before, *::after {
     box-sizing: border-box;
 }
+
+img {
+    width: 100%;
+}
+
+.logo {
+    width: 160px;
+    text-align: center;
+}
