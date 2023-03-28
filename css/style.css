@@ -23,7 +23,7 @@ img {
 
 .logo {
     width: 160px;
-    margin: 0auto;
+    margin: 0 auto;
 }
 
 .wrapper {
@@ -67,7 +67,7 @@ header {
 .trends > figure {
     width: 22%;
     display: inline-block;
-    align-items: center;
+    text-align: center;
 
 }
 
