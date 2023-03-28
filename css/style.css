@@ -23,7 +23,7 @@ img {
 
 .logo {
     width: 160px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .wrapper {
@@ -38,9 +38,7 @@ header {
     padding: 1.5em 0em;
 }
 
-nav {
 
-}
 
 .hero {
     width: 100%;
