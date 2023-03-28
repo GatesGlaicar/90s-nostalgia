@@ -69,7 +69,7 @@ nav {
 
 .trends > figure {
     width: 22%;
-    display: inline;
+    display: inline-block;
 
 }
 
