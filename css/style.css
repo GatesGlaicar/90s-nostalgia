@@ -89,3 +89,7 @@ figure > caption {
     margin: 2em;
 }
 
+footer {
+    background-color: black;
+    color: white;
+}
