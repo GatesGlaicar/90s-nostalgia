@@ -67,7 +67,7 @@ nav {
     background-color: purple;
 }
 
-.trends, figure {
+.trends  figure {
     width: 22%;
     display: inline;
     align-items: center;
